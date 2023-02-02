@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="菜单_icon_基础信息" data-name="菜单/icon/基础信息" transform="translate(0 0)">
+    <g id="组_14729" data-name="组 14729" opacity="0">
+      <path id="路径_7005" data-name="路径 7005" d="M1291.844,5542.156v19.688h-19.687v-19.687h19.688M1292,5542h-20v20h20v-20Z" transform="translate(-1272 -5542)" fill="#fff"/>
+    </g>
+    <g id="组_14723" data-name="组 14723" transform="translate(8.438 12.422)">
+      <rect id="矩形_9691" data-name="矩形 9691" width="5" height="1.406" fill="#fff"/>
+    </g>
+    <g id="组_14724" data-name="组 14724" transform="translate(8.438 9.297)">
+      <rect id="矩形_9692" data-name="矩形 9692" width="5" height="1.406" fill="#fff"/>
+    </g>
+    <g id="组_14725" data-name="组 14725" transform="translate(6.25 12.422)">
+      <rect id="矩形_9693" data-name="矩形 9693" width="1.25" height="1.406" fill="#fff"/>
+    </g>
+    <g id="组_14726" data-name="组 14726" transform="translate(6.25 9.297)">
+      <rect id="矩形_9694" data-name="矩形 9694" width="1.25" height="1.406" fill="#fff"/>
+    </g>
+    <g id="组_14727" data-name="组 14727" transform="translate(8.438 6.172)">
+      <rect id="矩形_9695" data-name="矩形 9695" width="5" height="1.406" fill="#fff"/>
+    </g>
+    <g id="组_14728" data-name="组 14728" transform="translate(6.25 6.172)">
+      <rect id="矩形_9696" data-name="矩形 9696" width="1.25" height="1.406" fill="#fff"/>
+    </g>
+    <path id="路径_7006" data-name="路径 7006" d="M1291.509,5544H1280v18.75h15v-15.259Zm.366,2.134.991.991h-.991ZM1281.25,5561.5v-16.25h9.375v3.125h3.125V5561.5Z" transform="translate(-1277.5 -5543.375)" fill="#fff"/>
+  </g>
+</svg>

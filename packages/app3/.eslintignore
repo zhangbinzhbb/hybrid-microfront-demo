@@ -1,0 +1,11 @@
+build/*.js
+builds/*.js
+src/assets
+src/views/setting
+src/views/inventoryManagement
+src/views/grid
+src/views/sheet
+src/utils/utf8.js
+src/lib
+public
+dist

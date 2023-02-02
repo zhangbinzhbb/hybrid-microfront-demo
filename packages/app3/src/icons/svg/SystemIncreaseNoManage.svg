@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="菜单_icon_编码管理" data-name="菜单/icon/编码管理" transform="translate(0 0)">
+    <g id="组_14712" data-name="组 14712" opacity="0">
+      <path id="路径_6994" data-name="路径 6994" d="M507.844,5542.156v19.688H488.156v-19.687h19.688M508,5542H488v20h20v-20Z" transform="translate(-488 -5542)" fill="#fff"/>
+    </g>
+    <g id="组_14713" data-name="组 14713" transform="translate(0.625 1.563)">
+      <path id="路径_6995" data-name="路径 6995" d="M541.513,5547H540v1.25h1l.88.88v12.616l-.88.879h-1v1.25h1.513l1.612-1.612v-13.651Z" transform="translate(-524.375 -5547)" fill="#fff"/>
+      <path id="路径_6996" data-name="路径 6996" d="M490,5548.612v13.651l1.612,1.612h1.513v-1.25h-1l-.88-.879v-12.616l.88-.88h1V5547h-1.513Z" transform="translate(-490 -5547)" fill="#fff"/>
+      <rect id="矩形_9682" data-name="矩形 9682" width="1.25" height="7.5" transform="translate(13.75 3.558)" fill="#fff"/>
+      <rect id="矩形_9683" data-name="矩形 9683" width="11.266" height="1.25" transform="translate(3.75 12.308)" fill="#fff"/>
+      <rect id="矩形_9684" data-name="矩形 9684" width="1.25" height="7.5" transform="translate(11.25 3.558)" fill="#fff"/>
+      <rect id="矩形_9685" data-name="矩形 9685" width="1.25" height="7.5" transform="translate(9.063 3.558)" fill="#fff"/>
+      <rect id="矩形_9686" data-name="矩形 9686" width="1.25" height="7.5" transform="translate(6.875 3.558)" fill="#fff"/>
+      <rect id="矩形_9687" data-name="矩形 9687" width="1.875" height="7.5" transform="translate(3.75 3.558)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,104 @@
+.tabel-layout .el-drawer .el-drawer__header {
+  margin-bottom: 16px;
+}
+
+.tabel-layout .tree-box {
+  background: #fff;
+  padding: 20px;
+}
+
+.tabel-layout .config-form-drawer-layout .drawer-content {
+  border-top: 1px solid #dcdfe6;
+  height: 100%;
+}
+
+.tabel-layout .btn-box {
+  margin-bottom: 16px;
+}
+
+.tabel-layout .le-row-color {
+  background-color: #f2f5fa;
+}
+
+.tabel-layout .le-header-cell-color {
+  background-color: #f7f8fa !important;
+}
+
+.tabel-layout .y-table-column-action-button {
+  display: flex;
+  align-items: center;
+}
+
+.tabel-layout .y-table-column-action-button .spacing {
+  width: 1px;
+  height: 8px;
+  background-color: #ebeef5;
+  margin: 0 8px;
+}
+
+.tabel-layout .el-table th.required > div:before {
+  content: '*';
+  color: #f56c6c;
+  margin-right: 4px;
+  background: transparent;
+  vertical-align: top;
+}
+
+.tabel-layout .el-table.edit-table td {
+  padding-bottom: 0;
+}
+
+.tabel-layout .el-table.edit-table td .el-form-item {
+  margin-bottom: 18px;
+}
+
+.tabel-layout .el-table .el-form-item {
+  margin-bottom: 0;
+}
+
+.tabel-layout .el-table .el-input__inner {
+  padding: 0 5px;
+}
+
+.tabel-layout .tool-bar {
+  padding-bottom: 16px;
+}
+
+.tabel-layout .keyword-search-layout {
+  padding: 20px 20px 0 20px;
+  margin-bottom: 16px;
+  background: #fff;
+}
+
+.tabel-layout .keyword-search-layout .el-form-item {
+  margin-bottom: 20px;
+}
+
+.tabel-layout .keyword-search-layout .search-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tabel-layout .keyword-search-layout .search-list .search-item {
+  display: flex;
+  align-items: center;
+  padding-bottom: 14px;
+  width: calc(100% / 4);
+}
+
+.tabel-layout .keyword-search-layout .search-list .search-item .search-name {
+  padding-right: 10px;
+  width: 120px;
+  text-align: right;
+  font-size: 14px;
+  color: #606266;
+}
+
+.tabel-layout .keyword-search-layout .search-list .search-item .search-value {
+  width: 100%;
+}
+
+.tabel-layout .keyword-search-layout .search-button-group {
+  display: flex;
+  justify-content: flex-end;
+}

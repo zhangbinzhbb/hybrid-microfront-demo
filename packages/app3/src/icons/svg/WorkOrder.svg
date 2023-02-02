@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="菜单_icon_工单" data-name="菜单/icon/工单" transform="translate(0 0)">
+    <g id="组_14721" data-name="组 14721" opacity="0">
+      <path id="路径_7004" data-name="路径 7004" d="M1095.844,5542.156v19.688h-19.687v-19.687h19.688M1096,5542h-20v20h20v-20Z" transform="translate(-1076 -5542)" fill="#fff"/>
+    </g>
+    <g id="组_14720" data-name="组 14720" transform="translate(2.5 0.625)">
+      <path id="路径_7003" data-name="路径 7003" d="M1095.25,5544H1084v18.75h15V5544Zm-1.25,1.25v1.25h-5v-1.25Zm3.75,16.25h-12.5v-16.25h2.5v2.5h7.5v-2.5h2.5Z" transform="translate(-1084 -5544)" fill="#fff"/>
+      <rect id="矩形_9689" data-name="矩形 9689" width="7.5" height="1.406" transform="translate(3.75 10.547)" fill="#fff"/>
+      <rect id="矩形_9690" data-name="矩形 9690" width="7.5" height="1.406" transform="translate(3.75 6.797)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

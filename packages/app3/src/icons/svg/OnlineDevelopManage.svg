@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="菜单_icon_在线开发管理" data-name="菜单/icon/在线开发管理" transform="translate(0 0)">
+    <g id="组_14715" data-name="组 14715" opacity="0">
+      <path id="路径_6997" data-name="路径 6997" d="M703.844,5542.156v19.688H684.156v-19.687h19.688M704,5542H684v20h20v-20Z" transform="translate(-684 -5542)" fill="#fff"/>
+    </g>
+    <g id="组_14716" data-name="组 14716" transform="translate(1.641 1.641)">
+      <path id="路径_6998" data-name="路径 6998" d="M689.25,5547.25v16.719h16.719V5547.25Zm1.094,1.094h14.531v2.031H690.344Zm14.531,14.531H690.344v-11.406h14.531Z" transform="translate(-689.25 -5547.25)" fill="#fff"/>
+      <path id="路径_6999" data-name="路径 6999" d="M722.767,5572.846l3.453-3.452-3.453-3.455-.884.884,2.57,2.571-2.57,2.568Z" transform="translate(-711.685 -5560.098)" fill="#fff"/>
+      <path id="路径_7000" data-name="路径 7000" d="M700.27,5572.846l.884-.884-2.569-2.568,2.569-2.571-.884-.884-3.453,3.455Z" transform="translate(-694.453 -5560.098)" fill="#fff"/>
+      <rect id="矩形_9688" data-name="矩形 9688" width="7.118" height="1.25" transform="translate(6.846 12.569) rotate(-75)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
